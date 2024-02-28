@@ -1,0 +1,10 @@
+.playerone{
+    text-align: center;
+}
+.playertwo{
+    text-align: center;
+    display: none;
+}
+.playeroneerr{
+    color: red;
+}
